@@ -1,34 +1,50 @@
  live preview == https://prodigy-portal.vercel.app/
 
-A modern job portal application built with the MERN stack (MongoDB, Express, React, Node.js) where recruiters/companies can post jobs and applicants can search/apply for opportunities. Features dedicated dashboards for both recruiters and applicants.
+
+Prodigy Job Portal is a full-stack MERN web application where companies can post jobs and job seekers can search and apply easily.
+It provides separate dashboards for recruiters and applicants with secure login and a modern user interface.
 
 
 ## Screenshots
 
 ![Startup Website Screenshot](./Prodigy.gif)
+✨ Features
+👔 Recruiters / Companies
+
+Post new job openings
+
+Edit and manage job listings
+
+View applications from candidates
+
+Recruiter dashboard for job management
+
+Company profile setup
+
+👨‍💼 Applicants
+
+Search jobs with filters
+
+Apply to jobs by uploading resume
+
+Track applied job status
+
+Manage personal profile
+
+⚙️ Common Features
+
+Secure login and signup
+
+File upload support (resume)
+
+Error tracking
+
+Mobile-friendly responsive design
+
+REST API based backend
 
 
-## ✨ Features
 
-**Recruiters/Companies:**
-- Create and manage job postings
-- View applications for posted jobs
-- Dashboard with analytics and job management
-- Company profile customization
-
-**Applicants:**
-- Search/filter job listings
-- Apply to jobs with resume/CV
-- Track application statuses
-- Applicant profile management
-
-**General:**
-- Authentication with Clerk
-- Error monitoring with Sentry
-- File uploads via Cloudinary
-- Responsive UI with Tailwind CSS
-- RESTful API with JWT authentication
-## 🛠️ Tech Stack
 
 **Frontend:**
 - React (Vite)
