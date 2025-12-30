@@ -1,6 +1,4 @@
-# Prodigy - MERN Stack Job Portal
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+ live preview == https://prodigy-portal.vercel.app/
 
 A modern job portal application built with the MERN stack (MongoDB, Express, React, Node.js) where recruiters/companies can post jobs and applicants can search/apply for opportunities. Features dedicated dashboards for both recruiters and applicants.
 
@@ -124,9 +122,3 @@ Contributions are welcome! Please follow these steps:
 * Open a Pull Request.
 
 
-📄 License
-This project is licensed for **personal, non-commercial use only**.
-Commercial use, including but not limited to incorporating this code into proprietary software or services, is strictly prohibited without prior written consent.
-Any unauthorized commercial use may result in legal action.
-Note: Use of this software is prohibited by individuals or entities located in India.
-© 2025 Mazher. All rights reserved.
